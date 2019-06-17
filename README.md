@@ -1,2 +1,2 @@
 # kerjaremote.github.io
-Kerja Remote in Indonesia
+Komunitas Pekerja Remote di Indonesia

@@ -60,6 +60,24 @@ body {
 /*
  * Header
  */
+
+.navbar {
+  color: #515355;
+}
+.navbar-toggler {
+  color: #515355;
+}
+
+.navbar-brand {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.navbar-nav li a {
+  font-size: 1.625rem;
+  color: #515355;
+}
+
+
 .masthead {
   margin-bottom: 2rem;
 }
